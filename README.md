@@ -16,3 +16,6 @@ Develop a computer vision desktop application to assist students with Autism Spe
 
 ## YouTube Video
 [![Watch the demo](https://img.youtube.com/vi/9Jj5IrdlsiM/hqdefault.jpg)](https://www.youtube.com/watch?v=9Jj5IrdlsiM)
+
+## LinkedIn Post
+[Check out the LinkedIn post about the project]([https://www.linkedin.com/posts/7158532209841184768/](https://www.linkedin.com/posts/siddh-pandya_autism-computervision-india-activity-7158656421826289664-wrhL?utm_source=share&utm_medium=member_desktop))
